@@ -1,4 +1,4 @@
-package com.mkyong.common.action;
+package ar.com.iterativa.action;
 
 import java.util.ArrayList;
 import java.util.HashMap;
